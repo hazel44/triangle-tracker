@@ -1,14 +1,14 @@
-#Project Name.
+# Project Name.
 Triangle Trucke
-
-##Author.
+## Author.
 Miriam Hazel Oduor
-
-##Description.
+## Description.
 This applications enables users to know whether a triangle is equilateral, isosceles, or scalene by inputing the length values of the sides of the triangle.
+## BDD
 
-##Contact information.
+## Technologies used
+
+## Contact information.
 email:miramhazel44@gmail.com
-
-##License
+## License
 Licensed under MIT LICENCE
