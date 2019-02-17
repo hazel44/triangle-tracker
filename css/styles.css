@@ -1,7 +1,17 @@
 .form {
   text-align: center;
-  color: yellow;
+  color:whitesmoke;
   }
   body {
-    background-color: black;
+    background: linear-gradient(to right, #606c88, #3f4c6b);
   }
+h1{
+  font-family: 'Cinzel', serif;
+}
+.card{
+  margin-left:30%;
+  margin-right: 30%;
+  background: linear-gradient(to right, #606c88, #3f4c6b);
+}
+p{
+  font-size: 1.5 em;
