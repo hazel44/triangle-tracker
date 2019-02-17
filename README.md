@@ -11,7 +11,7 @@ or not a triangle at all by inputing numerical values of the sides of the triang
 ## Technologies used
 This application was built using HTML,CSS,JAVASCRIPT.
 
-<img src="images/html.jpeg"> <img src="images/css.jpeg"> <ima src="images/js.jpeg">
+<img src="images/html.jpeg"> <img src="images/css.jpeg"> <img src="images/js.jpeg">
 
 ## Support and Contact information.
 Make sure you have internet connection to run the application.
