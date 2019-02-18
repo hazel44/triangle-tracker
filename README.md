@@ -4,6 +4,7 @@ Triangle Tracker.
 Miriam Hazel Oduor.
 ## Description.
 This application enables users to know whether a Triangle is Equilateral, Isosceles, Scalene
+<<<<<<< HEAD
 <<<<<<< 235271f55f2e6b4c91058a37b3bfaa8623269980
 or not a triangle at all by inputting numerical values of the sides of the triangle.
 ## Live link
@@ -32,6 +33,8 @@ Non.
 Make sure you have internet connection to run the application.
 Incase of any difficulties you can contact me via email.
 =======
+=======
+>>>>>>> 4409c2c004fa7c62a52e6c18da114cb4dbafbd85
 or not a triangle at all by inputing numerical values of the sides of the triangle.
 ## BDD
 
@@ -47,7 +50,10 @@ Non.
 ## Support and Contact information.
 Make sure you have internet connection to run the application.
 Incase of any difficulties you can reach us via email.
+<<<<<<< HEAD
 >>>>>>> updating README.md
+=======
+>>>>>>> 4409c2c004fa7c62a52e6c18da114cb4dbafbd85
 email:miriamhazel44@gmail.com
 ## License
 [MIT License](https://choosealicense.com/licenses/mit/#) copy;2019 [hazel44](https://github.com/hazel44/)
